@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SatyaAchanta
 - 👀 I’m interested in Web Development, Flutter and Open source projects
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Hairstylist Appointment App
-- 📫 Reach me at its_satya_achanta@yahoo.com 
+- 🌱 I’m currently improving my skills on testing react components (functional tests)
+- 💞️ I’m looking to collaborate on any open source projects in react or flutter
+- 📫 Reach me at personal4kartheek@gmail.com 
 
 <!---
 SatyaAchanta/SatyaAchanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
