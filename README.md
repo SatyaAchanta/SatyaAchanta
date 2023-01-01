@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatyaAchanta
 - 👀 I’m interested in Web Development, Flutter and Open source projects
-- 🌱 I’m currently learning next js by following [udemy course from Maximilian Schwarzmüller](https://www.udemy.com/course/nextjs-react-the-complete-guide)
+- 🌱 I’m am learning how to write functional tests in React
 - 💞️ I’m looking to collaborate on any open source projects in react or flutter
 - 📫 Reach me at personal4kartheek@gmail.com
 - 💻 [My Frontend masters profile](https://frontendmasters.com/u/its_me_satya/)
