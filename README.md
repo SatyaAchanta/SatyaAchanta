@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatyaAchanta
 - 👀 I’m interested in Web Development, Flutter and Open source projects
-- 🌱 I’m am learning how to write functional tests in React
+- 🌱 Right now I’m am learning [PWAs from Udemy](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide)
 - 💞️ I’m looking to collaborate on any open source projects in react or flutter
 - 📫 Reach me at personal4kartheek@gmail.com
 - 💻 [My Frontend masters profile](https://frontendmasters.com/u/its_me_satya/)
