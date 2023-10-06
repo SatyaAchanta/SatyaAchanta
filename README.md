@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SatyaAchanta
-- 👀 I’m interested in Web Development, Flutter and Open source projects
-- 🌱 Right now I’m am learning NextJs from frontendmasters
-- 💞️ I’m looking to collaborate on any open source projects in react or flutter
-- 📫 Reach me at personal4kartheek@gmail.com
+- 👀 I’m interested in Web Development and Open source projects
+- 🌱 Right now I’m am learning NextJs
+- 💞️ I’m looking to collaborate on any open source projects in react or typescript
+- 📫 Reach me at satya.achantavenkata@gmail.com
 - 💻 [My Frontend masters profile](https://frontendmasters.com/u/its_me_satya/)
 - 📚 [My Udemy profile](https://www.udemy.com/user/satyaachanta/)
 
