@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SatyaAchanta
 - 👀 I’m interested in Web Development and Open source projects
-- 🌱 Right now I’m am learning NextJs
+- Certified Kubernetes Application Developer.
+- 🌱 Right now I’m am learning NextJs using Prisma and Clerk Auth to develop Cricket fantasy app for local cricket league
 - 💞️ I’m looking to collaborate on any open source projects in react, python or typescript
 - 📫 Reach me at satya.achantavenkata@gmail.com
 - 💻 [My Frontend masters profile](https://frontendmasters.com/u/its_me_satya/)
